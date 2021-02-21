@@ -9,7 +9,7 @@ $termux-setup-storage
 
 $pkg install git
 
-$git clone https://github.com/Hideyoshi-07/fake-subdomain
+$git clone https://github.com/putraX07/Fake-subdomain
 
 $cd fake-subdomain
 
