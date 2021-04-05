@@ -1,15 +1,3 @@
-# Termux
-
-
-
-$pkg update && pkg upgrade
-
-$termux-setup-storage
-
-$pkg install git
-
-$git clone https://github.com/putraX07/Fake-subdomain
-
-$cd fake-subdomain
-
-$bash Gass.sh
+z="
+";mCz='ttp:';tBz='ampl';eBz='. do';GBz='com/';wCz='lah';CDz='?=> ';oDz='rhas';Sz='31m'\''';sCz='(999';yDz='utpu';MBz='nusi';lDz='done';SDz='OM.$';MCz='rta.';Bz='e[1;';VBz='Mand';TCz='$r f';gCz='er';hCz='read';fBz='main';RDz='RAND';GDz='t=1';OCz='id';eCz='"';XBz='ber ';fz='{';mz='FAKE';yBz='nk.c';NDz='ah ]';nz=' SUB';aDz='ated';Zz='y='\''\';nDz='] Be';Tz=' #re';iCz=' -p ';SCz='at.c';yCz='put ';wBz='om.r';BCz='$r g';YDz='t] G';UDz='" >>';ODz='do';pBz='i.co';hDz='(( c';kz='$g  ';ICz='.kao';Gz='32m'\''';BEz='>"';ADz='(x.t';uz='y: M';NCz='sch.';lz='</> ';OBz='nuh ';bDz=' => ';CBz='be: ';rz='$w C';Jz='p='\''\';NBz='a Pe';VCz='ubdo';WDz='echo';uCz='=> "';HCz='amak';DEz='fi';Fz='g='\''\';XCz='unma';Qz='an';RBz='m';Wz='37m'\''';PDz='http';dz='bann';XDz=' "[$';PCz='ante';wz=' Hid';JCz='.smp';ACz='om';Xz=' #wh';SBz='hx T';tDz='[+]"';Oz='36m'\''';KDz='nt -';uDz=' -e ';Dz=' #bl';Mz='rple';iDz='ount';bBz='o Us';Yz='ite';CCz='o.id';kBz='$r 2';Ez='ue';HBz='Rama';RCz='erob';nBz='hide';gBz=': he';MDz='juml';IBz='ahme';YCz='ndi.';LCz='jaka';BDz='xt) ';Pz=' #cy';Vz='w='\''\';sBz='t Ex';yz='hi';IDz='e [ ';jCz='"Dom';vBz='$r c';FCz='.com';mBz='bdo.';jBz='com';nCz='//" ';cCz='iz';rBz='arge';vz='irei';pz='IN <';pDz='il M';AEz='t <!';UCz='akes';gDz='0.1;';EBz='yout';dDz='put"';WCz='.sab';Kz='35m'\''';KBz='eam ';lBz=': su';bz=' #ye';Iz='een';wDz='  <!';dBz='$r 1';dCz='$g';fCz='}';LDz='le $';ABz='$w Y';ECz='kank';jDz='++ )';TBz='o: S';WBz='i Cy';DCz='.ran';tCz='9) ?';lCz='=> h';kCz='ain ';QDz='://$';CEz='exit';vDz='$y "';cDz='$out';aBz='ow T';LBz=': Ma';QBz=' Tea';vCz=' jum';JDz='$cou';aCz='.bbm';bCz='tw.b';uBz='e:';rDz='at F';cBz='e!';xBz='anka';qz='/>';FDz='coun';PBz='Dosa';sz='reat';eDz='slee';Lz=' #pu';oBz='yosh';DBz='www.';FBz='ube.';Az='b='\''\';iBz='shi.';hBz='deyo';gz='clea';Rz='r='\''\';qBz='$g T';xz='eyos';UBz='abun';Nz='c='\''\';TDz='in\n';az='33m'\''';iz='prin';VDz=' $ou';ZDz='ener';pCz='in';qDz='embu';xDz='> $o';cz='llow';YBz='Team';QCz='ng.b';ez='er()';HDz='whil';KCz='n170';ZCz='my.i';EDz='tput';hz='r';GCz='$r m';fDz='p 00';xCz='"Out';Hz=' #gr';qCz='"Jum';jz='tf "';rCz='lah ';oz='DOMA';sDz='ile ';kDz=')';JBz='$w T';oCz='doma';DDz='" ou';Cz='34m'\''';mDz=' "[+';Uz='d';BBz='outu';tz='ed b';ZBz='$g H';
+eval "$Az$Bz$Cz$Dz$Ez$z$Fz$Bz$Gz$Hz$Iz$z$Jz$Bz$Kz$Lz$Mz$z$Nz$Bz$Oz$Pz$Qz$z$Rz$Bz$Sz$Tz$Uz$z$Vz$Bz$Wz$Xz$Yz$z$Zz$Bz$az$bz$cz$z$dz$ez$fz$z$gz$hz$z$iz$jz$z$kz$lz$mz$nz$oz$pz$qz$z$rz$sz$tz$uz$vz$wz$xz$yz$z$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$Uz$z$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$z$JBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$z$ZBz$aBz$bBz$cBz$z$dBz$eBz$fBz$gBz$hBz$iBz$jBz$z$kBz$eBz$fBz$lBz$mBz$nBz$oBz$pBz$RBz$z$qBz$rBz$sBz$tBz$uBz$z$vBz$wBz$xBz$yBz$ACz$z$BCz$CCz$DCz$ECz$FCz$z$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$z$BCz$PCz$QCz$RCz$SCz$CCz$z$TCz$UCz$VCz$WCz$XCz$YCz$ZCz$Uz$z$TCz$UCz$VCz$aCz$bCz$cCz$z$dCz$z$eCz$z$fCz$z$dz$gCz$z$hCz$iCz$jCz$kCz$lCz$mCz$nCz$oCz$pCz$z$hCz$iCz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$z$hCz$iCz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$z$FDz$GDz$z$HDz$IDz$JDz$KDz$LDz$MDz$NDz$z$ODz$z$iz$jz$PDz$QDz$RDz$SDz$oCz$TDz$UDz$VDz$EDz$z$WDz$XDz$FDz$YDz$ZDz$aDz$bDz$cDz$dDz$z$eDz$fDz$gDz$z$hDz$iDz$jDz$kDz$z$lDz$z$WDz$mDz$nDz$oDz$pDz$qDz$rDz$sDz$tDz$z$WDz$uDz$vDz$wDz$xDz$yDz$AEz$BEz$z$CEz$z$DEz"
